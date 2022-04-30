@@ -1,0 +1,2 @@
+import MergeSort
+MergeSort.main()
